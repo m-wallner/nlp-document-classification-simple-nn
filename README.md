@@ -1,4 +1,4 @@
-# Natural language processing: Document classification using a simple neural network
+# Natural Language Processing: Document Classification Using a Simple Neural Network
 
 The goal of this project was to create a complete NLP pipeline for document classification using the pre-trained vectors of a word embedding model.
 
